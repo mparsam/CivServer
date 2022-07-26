@@ -1,0 +1,279 @@
+{
+  "units": [
+    {
+      "Name": "Archer",
+      "Cost": 70,
+      "Combat": "Archery",
+      "Strength": 4,
+      "Ranged": 6,
+      "Range": 2,
+      "Movement": 2,
+      "Resources": "null",
+      "Technology": "Archery"
+    },
+    {
+      "Name": "Chariot Archer",
+      "Cost": 60,
+      "Combat": "Mounted",
+      "Strength": 3,
+      "Ranged": 6,
+      "Range": 2,
+      "Movement": 4,
+      "Resources": "Horses",
+      "Technology": "The Wheel"
+    },
+    {
+      "Name": "Scout",
+      "Cost": 25,
+      "Combat": "Recon",
+      "Strength": 4,
+      "Ranged": 0,
+      "Range": 0,
+      "Movement": 2,
+      "Resources": "null",
+      "Technology": "null"
+    },
+    {
+      "Name": "Settler",
+      "Cost": 89,
+      "Combat": "Civilian",
+      "Strength": 0,
+      "Ranged": 0,
+      "Range": 0,
+      "Movement": 2,
+      "Resources": "null",
+      "Technology": "null"
+    },
+    {
+      "Name": "Spearman",
+      "Cost": 50,
+      "Combat": "Melee",
+      "Strength": 7,
+      "Ranged": 0,
+      "Range": 0,
+      "Movement": 2,
+      "Resources": "null",
+      "Technology": "Bronze Working"
+    },
+    {
+      "Name": "Warrior",
+      "Cost": 40,
+      "Combat": "Melee",
+      "Strength": 6,
+      "Ranged": 0,
+      "Range": 0,
+      "Movement": 2,
+      "Resources": "null",
+      "Technology": "null"
+    },
+    {
+      "Name": "Worker",
+      "Cost": 70,
+      "Combat": "Civilian",
+      "Strength": 0,
+      "Ranged": 0,
+      "Range": 0,
+      "Movement": 2,
+      "Resources": "null",
+      "Technology": "null"
+    },
+    {
+      "Name": "Catapult",
+      "Cost": 100,
+      "Combat": "Siege",
+      "Strength": 4,
+      "Ranged": 14,
+      "Range": 2,
+      "Movement": 2,
+      "Resources": "Iron",
+      "Technology": "Mathematics"
+    },
+    {
+      "Name": "Horseman",
+      "Cost": 80,
+      "Combat": "Mounted",
+      "Strength": 12,
+      "Ranged": 0,
+      "Range": 0,
+      "Movement": 4,
+      "Resources": "Horses",
+      "Technology": "Horseback Riding"
+    },
+    {
+      "Name": "Swordsman",
+      "Cost": 80,
+      "Combat": "Melee",
+      "Strength": 11,
+      "Ranged": 0,
+      "Range": 0,
+      "Movement": 2,
+      "Resources": "Iron",
+      "Technology": "Iron Working"
+    },
+    {
+      "Name": "Crossbowman",
+      "Cost": 120,
+      "Combat": "Archery",
+      "Strength": 6,
+      "Ranged": 12,
+      "Range": 2,
+      "Movement": 2,
+      "Resources": "null",
+      "Technology": "Machinery"
+    },
+    {
+      "Name": "Knight",
+      "Cost": 150,
+      "Combat": "Mounted",
+      "Strength": 18,
+      "Ranged": 0,
+      "Range": 0,
+      "Movement": 3,
+      "Resources": "Horses",
+      "Technology": "Chivalry"
+    },
+    {
+      "Name": "Longswordsman",
+      "Cost": 150,
+      "Combat": "Melee",
+      "Strength": 18,
+      "Ranged": 0,
+      "Range": 0,
+      "Movement": 3,
+      "Resources": "Iron",
+      "Technology": "Steel"
+    },
+    {
+      "Name": "Pikeman",
+      "Cost": 100,
+      "Combat": "Melee",
+      "Strength": 10,
+      "Ranged": 0,
+      "Range": 0,
+      "Movement": 2,
+      "Resources": "null",
+      "Technology": "Civil Service"
+    },
+    {
+      "Name": "Trebuchet",
+      "Cost": 170,
+      "Combat": "Siege",
+      "Strength": 6,
+      "Ranged": 20,
+      "Range": 2,
+      "Movement": 2,
+      "Resources": "Iron",
+      "Technology": "Physics"
+    },
+    {
+      "Name": "Canon",
+      "Cost": 250,
+      "Combat": "Siege",
+      "Strength": 10,
+      "Ranged": 26,
+      "Range": 2,
+      "Movement": 2,
+      "Resources": "null",
+      "Technology": "Chemistry"
+    },
+    {
+      "Name": "Cavalry",
+      "Cost": 260,
+      "Combat": "Mounted",
+      "Strength": 25,
+      "Ranged": 0,
+      "Range": 0,
+      "Movement": 3,
+      "Resources": "Horses",
+      "Technology": "Military Science"
+    },
+    {
+      "Name": "Lancer",
+      "Cost": 220,
+      "Combat": "Mounted",
+      "Strength": 22,
+      "Ranged": 0,
+      "Range": 0,
+      "Movement": 4,
+      "Resources": "Horses",
+      "Technology": "Metallurgy"
+    },
+    {
+      "Name": "Musketman",
+      "Cost": 120,
+      "Combat": "Gunpowder",
+      "Strength": 16,
+      "Ranged": 0,
+      "Range": 0,
+      "Movement": 2,
+      "Resources": "null",
+      "Technology": "Gunpowder"
+    },
+    {
+      "Name": "Rifleman",
+      "Cost": 200,
+      "Combat": "Gunpowder",
+      "Strength": 25,
+      "Ranged": 0,
+      "Range": 0,
+      "Movement": 2,
+      "Resources": "null",
+      "Technology": "Rifling"
+    },
+    {
+      "Name": "Anti-Tank Gun",
+      "Cost": 300,
+      "Combat": "Gunpowder",
+      "Strength": 32,
+      "Ranged": 0,
+      "Range": 0,
+      "Movement": 2,
+      "Resources": "null",
+      "Technology": "Replaceable Parts"
+    },
+    {
+      "Name": "Artillery",
+      "Cost": 420,
+      "Combat": "Siege",
+      "Strength": 16,
+      "Ranged": 32,
+      "Range": 3,
+      "Movement": 2,
+      "Resources": "null",
+      "Technology": "Dynamite"
+    },
+    {
+      "Name": "Infantry",
+      "Cost": 300,
+      "Combat": "Gunpowder",
+      "Strength": 36,
+      "Ranged": 0,
+      "Range": 0,
+      "Movement": 2,
+      "Resources": "null",
+      "Technology": "Replaceable Parts"
+    },
+    {
+      "Name": "Panzer",
+      "Cost": 450,
+      "Combat": "Armored",
+      "Strength": 60,
+      "Ranged": 0,
+      "Range": 0,
+      "Movement": 5,
+      "Resources": "null",
+      "Technology": "Combustion"
+    },
+    {
+      "Name": "Tank",
+      "Cost": 450,
+      "Combat": "Armored",
+      "Strength": 50,
+      "Ranged": 0,
+      "Range": 0,
+      "Movement": 4,
+      "Resources": "null",
+      "Technology": "Combustion"
+    }
+  ]
+}
